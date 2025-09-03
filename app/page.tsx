@@ -297,7 +297,6 @@ export default function AkkeBoxPage() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground group-hover:text-primary transition-colors duration-300">Papuxking</p>
-                      <p className="text-xs text-muted-foreground group-hover:text-primary/70 transition-colors duration-300">Full Stack Developer</p>
                     </div>
                   </div>
                   <div className="absolute inset-0 bg-gradient-to-t from-primary/10 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500 rounded-xl"></div>
@@ -316,7 +315,6 @@ export default function AkkeBoxPage() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground group-hover:text-secondary transition-colors duration-300">TicheKiwar</p>
-                      <p className="text-xs text-muted-foreground group-hover:text-secondary/70 transition-colors duration-300">Backend Developer</p>
                     </div>
                   </div>
                   <div className="absolute inset-0 bg-gradient-to-t from-secondary/10 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500 rounded-xl"></div>
@@ -324,7 +322,7 @@ export default function AkkeBoxPage() {
                 </a>
 
                 <a
-                  href="https://github.com/AngieaCaiza27"
+                  href="https://github.com/AngieCaiza27"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative overflow-hidden bg-gradient-to-br from-accent/5 to-accent/10 border border-accent/20 rounded-xl p-6 hover:shadow-xl hover:shadow-accent/20 transition-all duration-500 hover:-translate-y-2 hover:scale-105 animate-in fade-in slide-in-from-bottom delay-500"
@@ -334,8 +332,7 @@ export default function AkkeBoxPage() {
                       <Code className="w-6 h-6 text-accent-foreground group-hover:scale-110 transition-transform duration-300" />
                     </div>
                     <div>
-                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors duration-300">AngieaCaiza27</p>
-                      <p className="text-xs text-muted-foreground group-hover:text-accent/70 transition-colors duration-300">UI/UX Designer</p>
+                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors duration-300">AngieCaiza27</p>
                     </div>
                   </div>
                   <div className="absolute inset-0 bg-gradient-to-t from-accent/10 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500 rounded-xl"></div>
@@ -354,7 +351,6 @@ export default function AkkeBoxPage() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground group-hover:text-primary transition-colors duration-300">SafeBryan</p>
-                      <p className="text-xs text-muted-foreground group-hover:text-primary/70 transition-colors duration-300">DevOps Engineer</p>
                     </div>
                   </div>
                   <div className="absolute inset-0 bg-gradient-to-t from-primary/10 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500 rounded-xl"></div>
