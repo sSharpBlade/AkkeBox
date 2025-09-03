@@ -201,6 +201,29 @@ export default function AkkeBoxPage() {
 
               <div className="group">
                 <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
+                  <Code className="w-5 h-5 text-blue-500" />
+                  Clasificación de Herramientas CASE
+                </h3>
+                <div className="space-y-4">
+                  <div className="border-l-4 border-blue-500 pl-4 p-3 rounded-r-lg">
+                    <h4 className="font-semibold text-blue-500">Diseño</h4>
+                    <p className="text-sm">Ejemplo: Herramientas como Enterprise Architect o Visual Paradigm, usadas para modelar diagramas UML y diseñar la arquitectura del sistema.</p>
+                  </div>
+                  <div className="border-l-4 border-yellow-500 pl-4 p-3 rounded-r-lg">
+                    <h4 className="font-semibold text-yellow-500">Programación</h4>
+                    <p className="text-sm">Ejemplo: Generadores de código como Acceleo o herramientas integradas en IDEs que convierten modelos en código en lenguajes como Java o C#.</p>
+                  </div>
+                  <div className="border-l-4 border-green-500 pl-4 p-3 rounded-r-lg">
+                    <h4 className="font-semibold text-green-500">Pruebas</h4>
+                    <p className="text-sm">Ejemplo: Herramientas de testing automatizado como Selenium o frameworks como JUnit, que facilitan la validación de pruebas unitarias y funcionales.</p>
+                  </div>
+                </div>
+              </div>
+
+              <Separator className="my-8" />
+
+              <div className="group">
+                <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
                   <Users className="w-5 h-5 text-accent" />
                   Ejemplos y Casos Breves
                 </h3>
@@ -301,7 +324,7 @@ export default function AkkeBoxPage() {
                 </a>
 
                 <a
-                  href="https://github.com/AngieCaiza27"
+                  href="https://github.com/AngieaCaiza27"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative overflow-hidden bg-gradient-to-br from-accent/5 to-accent/10 border border-accent/20 rounded-xl p-6 hover:shadow-xl hover:shadow-accent/20 transition-all duration-500 hover:-translate-y-2 hover:scale-105 animate-in fade-in slide-in-from-bottom delay-500"
@@ -311,7 +334,7 @@ export default function AkkeBoxPage() {
                       <Code className="w-6 h-6 text-accent-foreground group-hover:scale-110 transition-transform duration-300" />
                     </div>
                     <div>
-                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors duration-300">AngieCaiza27</p>
+                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors duration-300">AngieaCaiza27</p>
                       <p className="text-xs text-muted-foreground group-hover:text-accent/70 transition-colors duration-300">UI/UX Designer</p>
                     </div>
                   </div>
