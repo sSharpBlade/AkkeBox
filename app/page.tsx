@@ -301,7 +301,7 @@ export default function AkkeBoxPage() {
                 </a>
 
                 <a
-                  href="https://github.com/AngieaCaiza27"
+                  href="https://github.com/AngieCaiza27"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative overflow-hidden bg-gradient-to-br from-accent/5 to-accent/10 border border-accent/20 rounded-xl p-6 hover:shadow-xl hover:shadow-accent/20 transition-all duration-500 hover:-translate-y-2 hover:scale-105 animate-in fade-in slide-in-from-bottom delay-500"
@@ -311,7 +311,7 @@ export default function AkkeBoxPage() {
                       <Code className="w-6 h-6 text-accent-foreground group-hover:scale-110 transition-transform duration-300" />
                     </div>
                     <div>
-                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors duration-300">AngieaCaiza27</p>
+                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors duration-300">AngieCaiza27</p>
                       <p className="text-xs text-muted-foreground group-hover:text-accent/70 transition-colors duration-300">UI/UX Designer</p>
                     </div>
                   </div>
