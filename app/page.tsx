@@ -320,7 +320,7 @@ export default function AkkeBoxPage() {
                 </a>
 
                 <a
-                  href="https://github.com/SafeBryans"
+                  href="https://github.com/SafeBryan"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative overflow-hidden bg-gradient-to-br from-primary/5 to-primary/10 border border-primary/20 rounded-xl p-6 hover:shadow-xl hover:shadow-primary/20 transition-all duration-500 hover:-translate-y-2 hover:scale-105 animate-in fade-in slide-in-from-bottom delay-600"
@@ -330,7 +330,7 @@ export default function AkkeBoxPage() {
                       <Code className="w-6 h-6 text-primary-foreground group-hover:scale-110 transition-transform duration-300" />
                     </div>
                     <div>
-                      <p className="font-semibold text-foreground group-hover:text-primary transition-colors duration-300">SafeBryans</p>
+                      <p className="font-semibold text-foreground group-hover:text-primary transition-colors duration-300">SafeBryan</p>
                       <p className="text-xs text-muted-foreground group-hover:text-primary/70 transition-colors duration-300">DevOps Engineer</p>
                     </div>
                   </div>
